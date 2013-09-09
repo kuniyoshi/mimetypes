@@ -2,6 +2,7 @@
  [
   {description, "mimetypes"},
   {vsn, "1.0"},
+  {modules, []},
   {registered, [mimetypes]},
   {applications, [
                   kernel,
